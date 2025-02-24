@@ -1,11 +1,11 @@
 <div align="center">
-  <h1 style="text-align: center;font-weight: bold">Workshop 1<br>Worskhop Administrasi Jaringan</h1>
+  <h1 style="text-align: center;font-weight: bold">Workshop <br>Worskhop Administrasi Jaringan</h1>
   <h4 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h4>
 </div>
 <br />
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
-  <h3 style="text-align: center;">Disusun Oleh : <br>Kelompok 4</h3>
+  <h3 style="text-align: center;">Disusun Oleh : <br></h3>
   <p style="text-align: center;">
     <strong>Muhammad Yafi Rifdah Zayyan
   </p>
