@@ -135,7 +135,7 @@ Mengkonfigurasi IP dalam file **`/etc/host`** agar komputer mengenali nam Host *
 ![alt text](image-5.png)
 
 ---
-x
+
 ## 🎯 Kesimpulan
 - DNS menghubungkan **domain** ke **alamat IP**
 - Bekerja dalam sistem **hierarkis** (Root → TLD → Authoritative)
